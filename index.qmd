@@ -1,6 +1,7 @@
 ## What and Whom Do We Publish?
 
 IU-Created:
+
 - Bibliographies
 - Books (scholarly, fiction, etc.)
 - Conference Proceedings
@@ -16,14 +17,17 @@ So, what is meant by "Non-Traditional Documents"?
 Here are two definitions:
 
 1) Documents created by the IU community that could benefit from being published but are inapt for scholarly or commercial presses. This is because they may be
+
 - not apt for peer review
 - too long or too short
 - too esoteric
 - too costly to publish or not expected to sell
 
+
 2) "Non-Traditional Documents" also refers to:
  
 Documents created by the IU community that would benefit from 
+
 - low / no barriers to acceptance or publication
 - fast publishing timelines
 - publishing agreements that enable the author to retain copyright
@@ -47,7 +51,7 @@ Our publishing service is also free from publication barriers, such as peer revi
 
 :::: {.columns}
 
-::: {column width="50%"}
+::: {.column width="50%"}
 **Services Offered Now**
 - Multiformat Publishing (HTML, EPUB, PDF, Print)
 - Default Design + Typesetting
@@ -59,7 +63,7 @@ Our publishing service is also free from publication barriers, such as peer revi
 - Use Metrics (optional)
 :::
 
-::: {column width="50%"}
+::: {.column width="50%"}
 **Services Offered Later**
 - Custom Design + Typesetting
 - Preservation
