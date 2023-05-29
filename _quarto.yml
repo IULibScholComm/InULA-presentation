@@ -1,0 +1,37 @@
+project:
+  type: default
+  output-dir: docs
+  
+title: "Introducing IUB Library's Open Publishing Service for Non-Traditional Documents"
+date: 5 June 2023
+author: 
+  name: Adam Mazel, Digital Publishing Librarian
+  institute: "Scholarly Communication Department, IUB Libraries"
+format: 
+  revealjs:
+    scrollable: true
+    show-notes: true
+    slide-number: true
+    pdf-separate-fragments: true
+    preview-links: true
+    embed-resources: true
+    transition: slide
+theme: dark
+logo: images\iu_trident_web_crimson.png
+footer: <https://libraries.indiana.edu/publishing-service-non-traditional>
+title-slide-attributes: 
+  data-notes: "Hi, I'm Adam Mazel, the Digital Publishing Librarian in the Scholarly Communication Department of IUB Libraries.
+
+  My lighting talk introduces a new program that I'm establishing \\: IU Libraries Open Publishing Service for Non-Traditional Documents.
+
+  I'll overview:
+  - what + whom I publish
+  - how I publish
+  - why I'm publishing these documents this way
+
+  I'm doing so 
+  - to practice transparent publishing processes to promote a critical understanding of publishing's range of production and economic models
+  - to start publicizing the service 
+  - to learn from you whether this will interest your constituencies. 
+
+  Thank you!"
