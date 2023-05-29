@@ -17,11 +17,8 @@ IU-Created:
 - Author Retains Copyright
 - Barrier-Free Publishing
 
-## How Do We Publish? Our Services
+## How Do We Publish? Our Services (Now)
 
-:::: {.columns}
-
-::: {.column width="50%"}
 **Services Offered Now**
 
 - Multiformat Publishing (HTML, EPUB, PDF, Print)
@@ -32,17 +29,14 @@ IU-Created:
 - Print-on-Demand (optional)
 - Copyright Help (optional)
 - Use Metrics (optional)
-:::
 
-::: {.column width="50%"}
+## How Do We Publish? Our Services (Later)
+
 **Services Offered Later**
 
 - Custom Design + Typesetting
 - Preservation
 - Discoverability (IU Catalog)
-:::
-
-::::
 
 ## How Do We Publish: Our Software
 
@@ -62,4 +56,4 @@ IU-Created:
 - First Publication: Monograph by Curtis Lively, Distinguished Professor of Biology, IU
 - Share with Constituents
 - Contact: Adam Mazel, Digital Publishing Librarian, [amazel@iu.edu](mailto:amazel@iu.edu)
-- Service Website: https://libraries.indiana.edu/publishing-service-non-traditional 
+- Service Website: <https://libraries.indiana.edu/publishing-service-non-traditional>
