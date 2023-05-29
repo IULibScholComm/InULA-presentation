@@ -7,7 +7,7 @@ date: 5 June 2023
 author: 
   name: Adam Mazel, Digital Publishing Librarian
   institute: "Scholarly Communication Department, IUB Libraries"
-format: 
+format:
   revealjs:
     scrollable: true
     show-notes: true
@@ -16,6 +16,7 @@ format:
     preview-links: true
     embed-resources: true
     transition: slide
+showNotes: false
 show-notes: false
 logo: images\iu_trident_web_crimson.png
 footer: <https://libraries.indiana.edu/publishing-service-non-traditional>
