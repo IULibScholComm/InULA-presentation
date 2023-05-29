@@ -16,4 +16,5 @@ format:
     preview-links: true
     embed-resources: true
     transition: slide
+    css: style.css
 logo: images\iu_trident_web_crimson.png
