@@ -1,7 +1,6 @@
 ## What and Whom Do We Publish?
 
-::: {.nonincremental}
-### IU-Created:
+IU-Created:
 - Bibliographies
 - Books (scholarly, fiction, etc.)
 - Conference Proceedings
@@ -10,7 +9,6 @@
 - Manuals
 - Reports
 - White + Working Papers
-:::
 
 ::: {.notes}
 So, what is meant by "Non-Traditional Documents"?
@@ -67,6 +65,8 @@ Our publishing service is also free from publication barriers, such as peer revi
 - Preservation
 - Discoverability (IU Catalog)
 :::
+
+::::
 
 :::: {.notes}
 Our publishing service is comprised of these publishing services, divided between those that are offered now and those that should be offered in the future. 

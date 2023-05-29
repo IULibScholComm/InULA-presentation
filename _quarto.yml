@@ -16,7 +16,6 @@ format:
     preview-links: true
     embed-resources: true
     transition: slide
-theme: dark
 logo: images\iu_trident_web_crimson.png
 footer: <https://libraries.indiana.edu/publishing-service-non-traditional>
 title-slide-attributes: 
