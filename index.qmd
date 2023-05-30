@@ -41,8 +41,6 @@ IU-Created:
 - Digital Publishing Platform: [Quarto](https://quarto.org/) 
 - [Example Schol Comm Publishing Service Publication](https://iulibscholcomm.github.io/example-publication/)
 
-<iframe src="https://iulibscholcomm.github.io/example-publication/" title="Example Quarto HTML Publication">
-
 ## Why Do We Publish These Documents This Way?
 
 - Emerging service of academic libraries
