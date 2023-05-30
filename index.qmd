@@ -17,7 +17,7 @@ IU-Created:
 - Author Retains Copyright
 - Barrier-Free Publishing
 
-![open access logo](images\oa_logo-trans.svg "Open Access Logo")
+![open access logo](images\oa_logo-trans.svg) {.absolute right=0}
 
 ## How Do We Publish? Our Services (Now)
 
@@ -40,6 +40,8 @@ IU-Created:
 
 - Digital Publishing Platform: [Quarto](https://quarto.org/) 
 - [Example Schol Comm Publishing Service Publication](https://iulibscholcomm.github.io/example-publication/)
+
+![Quarto homepage](images\quarto.jpg) {.absolute right=0}
 
 ## Why Do We Publish These Documents This Way?
 
