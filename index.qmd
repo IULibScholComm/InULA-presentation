@@ -17,9 +17,9 @@ IU-Created:
 - Author Retains Copyright
 - Barrier-Free Publishing
 
-## How Do We Publish? Our Services (Now)
+![open access logo](images\oa_logo-trans.svg "Open Access Logo")
 
-**Services Offered Now**
+## How Do We Publish? Our Services (Now)
 
 - Multiformat Publishing (HTML, EPUB, PDF, Print)
 - Default Design + Typesetting
@@ -32,16 +32,16 @@ IU-Created:
 
 ## How Do We Publish? Our Services (Later)
 
-**Services Offered Later**
-
 - Custom Design + Typesetting
 - Preservation
 - Discoverability (IU Catalog)
 
 ## How Do We Publish: Our Software
 
-- Digital Publishing Platform: [Quarto](https://quarto.org/)
+- Digital Publishing Platform: [Quarto](https://quarto.org/) 
 - [Example Schol Comm Publishing Service Publication](https://iulibscholcomm.github.io/example-publication/)
+
+<iframe src="https://iulibscholcomm.github.io/example-publication/" title="Example Quarto HTML Publication">
 
 ## Why Do We Publish These Documents This Way?
 
@@ -54,6 +54,6 @@ IU-Created:
 ## Wrap Up + Thank You!
 
 - First Publication: Monograph by Curtis Lively, Distinguished Professor of Biology, IU
-- Share with Constituents
+- Please Share with Constituents
 - Contact: Adam Mazel, Digital Publishing Librarian, [amazel@iu.edu](mailto:amazel@iu.edu)
-- Service Website: <https://libraries.indiana.edu/publishing-service-non-traditional>
+- Publishing Service Website: <https://libraries.indiana.edu/publishing-service-non-traditional>
