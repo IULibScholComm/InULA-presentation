@@ -17,7 +17,7 @@ IU-Created:
 - Author Retains Copyright
 - Barrier-Free Publishing
 
-![](images\oa_logo-trans.svg){.absolute right=0 width="20%"}
+![](images\oa_logo-trans.svg){.absolute right=10 width="25%"}
 
 ## How Do We Publish? Our Services (Now)
 
