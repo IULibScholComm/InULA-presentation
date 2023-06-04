@@ -2,19 +2,25 @@ project:
   type: default
   output-dir: docs
   
-title: "Introducing \\ IUB Library's \\ Open Publishing Service \\ for Non-Traditional Documents"
-date: 5 June 2023
+title: Introducing IUB Library's Open Publishing Service for Non-Traditional Documents
+date: "5 June 2023"
 author: 
   name: Adam Mazel, Digital Publishing Librarian
-  institute: "Scholarly Communication Department, IUB Libraries"
+  institute: Scholarly Communication Department, IUB Libraries
 format:
   revealjs:
+    theme: beige
     scrollable: true
-    show-notes: true
+    overview: true
+    touch: true
+    progress: true
     slide-number: true
     pdf-separate-fragments: true
     preview-links: true
     embed-resources: true
+    fig-responsive: true
     transition: slide
     css: style.css
 logo: images\iu_trident_web_crimson.png
+lang: en-US
+keywords: "Indiana University", "Indiana University Libraries", "Open Publishing Service", "Non-Traditional Documents"

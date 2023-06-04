@@ -21,7 +21,7 @@ IU-Created:
 
 ## How Do We Publish? Our Services (Now)
 
-- Multiformat Publishing (HTML, EPUB, PDF, Print)
+- Multiformat Digital Publishing (HTML, EPUB, PDF)
 - Default Design + Typesetting
 - Open Access Hosting 
 - Discoverability 
@@ -36,10 +36,12 @@ IU-Created:
 - Preservation
 - Discoverability (IU Catalog)
 
+![](images/iucat.jpg){.absolute width="75%"}
+
 ## How Do We Publish: Our Software
 
 - Digital Publishing Platform: [Quarto](https://quarto.org/) 
-- [Example Schol Comm Publishing Service Publication](https://iulibscholcomm.github.io/example-publication/)
+- First Publication (In Progress): [Monograph by Curtis Lively, Distinguished Professor of Biology, IU](https://iulibscholcomm.github.io/through-the-looking-glass/)
 
 ![](images\quarto.jpg)
 
@@ -53,7 +55,6 @@ IU-Created:
 
 ## Wrap Up + Thank You!
 
-- First Publication: Monograph by Curtis Lively, Distinguished Professor of Biology, IU
 - Please Share with Constituents
 - Contact: Adam Mazel, Digital Publishing Librarian, [amazel@iu.edu](mailto:amazel@iu.edu)
 - Publishing Service Website: <https://libraries.indiana.edu/publishing-service-non-traditional>
