@@ -4,3 +4,8 @@
     max-width: unset !important;
     max-height: unset !important;
 }
+
+.reveal h1.title {
+    font-size: 150%;
+    margin-bottom: 12%;
+}

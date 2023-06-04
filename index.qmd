@@ -11,6 +11,20 @@ IU-Created:
 - Reports
 - White + Working Papers
 
+::: {.notes}
+"Non-Traditional Documents":
+
+- Documents created by the **IU community** \\ that would **benefit from being published** \\ but are **not publishable by scholarly or commercial presses**. \\ This is because they may be:
+
+    - not apt for peer review
+    - too long, or too short
+    - too esoteric
+    - too costly to publish or not expected to sell
+    - digital-first
+        - dynamic media
+        - interactivity
+:::
+
 ## How Do We Publish? Our Principles
 
 - Diamond Open Access
@@ -18,6 +32,16 @@ IU-Created:
 - Barrier-Free Publishing
 
 ![](images\oa_logo-trans.svg){.absolute right=20 width="20%"}
+
+::: {.notes}
+So here are some of our publishing values:
+
+Our publishing service is Diamond Open Access, meaning unlike most scholarly and commercial presses, our publications cost readers nothing and they cost authors nothing to make them free to readers.
+
+Moreover, unlike most scholarly and commercial presses, our authors retain their copyright, so they retain ownership of their work and can distribute and republish it elsewhere. 
+
+Our publishing service is also free from most acceptance barriers, such as peer review and return on investment. This enables a broader range of documents to find an audience. \\ This also enables us to publish faster than traditional presses. 
+:::
 
 ## How Do We Publish? Our Services (Now)
 
@@ -30,6 +54,23 @@ IU-Created:
 - Copyright Help (optional)
 - Use Metrics (optional)
 
+::: {.notes}
+We offer the following publishing services:
+
+- Basic Service
+    - Multiformat Publishing
+        - default-designed and default-typeset HTML, EPUB, and PDF
+    - OA Hosting
+    - Discoverability support
+        - DOIs
+        - Google Analytics.
+- Additional Services (Upon Request)
+    - Copyediting
+    - print-on-demand
+    - help with copyright and permissions
+    - use metrics 
+:::
+
 ## How Do We Publish? Our Services (Later)
 
 - Custom Design + Typesetting
@@ -37,6 +78,14 @@ IU-Created:
 - Discoverability (IU Catalog)
 
 ![](images/iucat.jpg){.absolute width="75%"}
+
+:::{.notes}
+In the future, we hope to offer these services: 
+
+- Custom Design + Typesetting
+- Preservation
+- Discoverability (IU Catalog)
+:::
 
 ## How Do We Publish: Our Software
 
@@ -47,11 +96,35 @@ IU-Created:
 
 ## Why Do We Publish These Documents This Way?
 
-- Emerging service of academic libraries
-- Unsupported need of Indiana University
 - Multiformat publishing improves access and accessibility
-- Affordable and Sustainable
-- Improved Product
+- Quarto is more affordable, sustainable, preservable, + data scientific
+- Copyediting + design improves the product
+
+:::{.notes}
+We established this service for the following reasons. 
+
+Previously, those who wanted to publish non-traditional documents could only deposit a pdf in our library’s repository.
+But while pdfs are great for printing / physical copies, they are limited in other areas: 
+
+- they cannot handle dynamic or interactive media
+- they are hard to read on different screen sizes, from cell phones to desktops
+- they are not machine readable 
+- their raw content is not accessible
+- for impaired readers they are less accessible than ePubs
+
+In sum, publishing as posting and hosting a pdf limits access and accessibility. 
+
+Multiformat publishing--pdf, html, ePubs, raw content--however broadens access and accessibility and thus potential uses and readerships. We therefore wanted to enable multiformat publishing.
+
+We're doing so with Quarto, rather than prominent publishing platforms such as PressBooks, to advocate platforms that are 
+
+- free (free of all costs, including hosting costs)
+- more sustainable (easy to maintain, small footprint, no database)
+- easier to preserve (static, no database).
+- apt for interactive data science
+
+Lastly, offering copyediting and design help will improve the quality and appearance of the publication.
+:::
 
 ## Wrap Up + Thank You!
 
