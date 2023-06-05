@@ -14,7 +14,7 @@ IU-Created:
 ::: {.notes}
 "Non-Traditional Documents":
 
-- Documents created by the **IU community** \\ that would **benefit from being published** \\ but are **not publishable by scholarly or commercial presses**. \\ This is because they may be:
+- Documents created by the **IU community** that would **benefit from being published** but are **not publishable by scholarly or commercial presses**. This is because they may be:
 
     - not apt for peer review
     - too long, or too short
@@ -36,16 +36,16 @@ IU-Created:
 ::: {.notes}
 So here are some of our publishing values:
 
-Our publishing service is Diamond Open Access, meaning unlike most scholarly and commercial presses, our publications cost readers nothing and they cost authors nothing to make them free to readers.
+Our publishing service is Diamond Open Access, meaning unlike traditional presses, our publications cost readers nothing and they cost authors nothing to make them free to readers.
 
-Moreover, unlike most scholarly and commercial presses, our authors retain their copyright, so they retain ownership of their work and can distribute and republish it elsewhere. 
+Moreover, our authors retain their copyright, so unlike traditional presses, our authors retain ownership of their work and can distribute and republish it elsewhere. 
 
-Our publishing service is also free from most acceptance barriers, such as peer review and return on investment. This enables a broader range of documents to find an audience. \\ This also enables us to publish faster than traditional presses. 
+Our publishing service is also free from most acceptance barriers, such as peer review and return on investment. This enables a broader range of documents to find an audience. This also enables us to publish faster than traditional presses. 
 :::
 
 ## How Do We Publish? Our Services (Now)
 
-- Multiformat Digital Publishing (HTML, EPUB, PDF)
+- Multiformat Publishing (HTML, EPUB, PDF)
 - Default Design + Typesetting
 - Open Access Hosting 
 - Discoverability 
@@ -63,7 +63,7 @@ We offer the following publishing services:
     - OA Hosting
     - Discoverability support
         - DOIs
-        - Google Analytics.
+        - Google Analytics
 - Additional Services (Upon Request)
     - Copyediting
     - print-on-demand
@@ -90,7 +90,7 @@ In the future, we hope to offer these services:
 ## How Do We Publish: Our Software
 
 - Digital Publishing Platform: [Quarto](https://quarto.org/) 
-- First Publication (In Progress): [Monograph by Curtis Lively, Distinguished Professor of Biology, IU](https://iulibscholcomm.github.io/through-the-looking-glass/)
+- First Publication (In Progress): [Monograph by Curt Lively, Distinguished Professor of Biology, IU](https://iulibscholcomm.github.io/through-the-looking-glass/)
 
 ![](images\quarto.jpg)
 
@@ -119,8 +119,8 @@ Multiformat publishing--pdf, html, ePubs, raw content--however broadens access a
 We're doing so with Quarto, rather than prominent publishing platforms such as PressBooks, to advocate platforms that are 
 
 - free (free of all costs, including hosting costs)
-- more sustainable (easy to maintain, small footprint, no database)
-- easier to preserve (static, no database).
+- more sustainable (easy to maintain, small footprint)
+- easier to preserve (no database).
 - apt for interactive data science
 
 Lastly, offering copyediting and design help will improve the quality and appearance of the publication.
@@ -128,6 +128,6 @@ Lastly, offering copyediting and design help will improve the quality and appear
 
 ## Wrap Up + Thank You!
 
-- Please Share with Constituents
+- Please Share with Constituents + Be in Touch
 - Contact: Adam Mazel, Digital Publishing Librarian, [amazel@iu.edu](mailto:amazel@iu.edu)
 - Publishing Service Website: <https://libraries.indiana.edu/publishing-service-non-traditional>
